@@ -3,12 +3,27 @@
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
-  ],
+  ], 
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "ScanHRMS dummy"
+  },
+  "TimeOff": [
+    { "userId": 1,
+      "DayOffStart": "2020-09-15T00:00:00Z",
+      "DayOffEnd": "2020-09-17T00:00:00Z",
+      "ActualTotalDays": 3,
+      "ErrorCode": 0,
+      "ErrorDescription": " "},
+    { "userId": 2,
+      "DayOffStart": "2020-09-15T00:00:00Z",
+      "DayOffEnd": "2020-09-15T00:00:00Z",
+      "ActualTotalDays": 0,
+      "ErrorCode": 1,
+      "ErrorDescription": "No remaining "}
+  ]
+  
 }
