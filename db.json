@@ -16,13 +16,13 @@
       "DayOffStart": "2020-09-15T00:00:00Z",
       "DayOffEnd": "2020-09-17T00:00:00Z",
       "ActualTotalDays": 3,
-      "ErrorCode": 0,
+      "ErrorCode": "APPROVED",
       "ErrorDescription": " "},
     { "userId": 2,
       "DayOffStart": "2020-09-15T00:00:00Z",
       "DayOffEnd": "2020-09-15T00:00:00Z",
       "ActualTotalDays": 0,
-      "ErrorCode": 1,
+      "ErrorCode": "REJECTED",
       "ErrorDescription": "No remaining "}
   ]
   
