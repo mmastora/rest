@@ -22,7 +22,7 @@
       "DayOffStart": "2020-09-18T00:00:00Z",
       "DayOffEnd": "2020-09-18T00:00:00Z",
       "ActualTotalDays": 0,
-      "ErrorCode": "REJECTED",
+      "ErrorCode": "CANCELLED",
       "ErrorDescription": "No remaining "}
   ]
   
