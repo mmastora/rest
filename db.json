@@ -13,14 +13,14 @@
   },
   "TimeOff": [
     { "userId": 1,
-      "DayOffStart": "2020-09-15T00:00:00Z",
-      "DayOffEnd": "2020-09-17T00:00:00Z",
+      "DayOffStart": "2020-09-18T00:00:00Z",
+      "DayOffEnd": "2020-09-18T00:00:00Z",
       "ActualTotalDays": 3,
       "ErrorCode": "APPROVED",
       "ErrorDescription": " "},
     { "userId": 2,
-      "DayOffStart": "2020-09-15T00:00:00Z",
-      "DayOffEnd": "2020-09-15T00:00:00Z",
+      "DayOffStart": "2020-09-18T00:00:00Z",
+      "DayOffEnd": "2020-09-18T00:00:00Z",
       "ActualTotalDays": 0,
       "ErrorCode": "REJECTED",
       "ErrorDescription": "No remaining "}
