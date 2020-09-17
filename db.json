@@ -12,18 +12,7 @@
     "name": "ScanHRMS dummy"
   },
   "TimeOff": [
-    { "userId": 1,
-      "DayOffStart": "2020-09-18T00:00:00Z",
-      "DayOffEnd": "2020-09-18T00:00:00Z",
-      "ActualTotalDays": 3,
-      "ErrorCode": "APPROVED",
-      "ErrorDescription": " "},
-    { "userId": 2,
-      "DayOffStart": "2020-09-18T00:00:00Z",
-      "DayOffEnd": "2020-09-18T00:00:00Z",
-      "ActualTotalDays": 0,
-      "ErrorCode": "CANCELLED",
-      "ErrorDescription": "No remaining "}
-  ]
-  
+    { "userId": 1, "DayOffStart": "2020-09-18T00:00:00Z", "DayOffEnd": "2020-09-18T00:00:00Z", "ActualTotalDays": 3, "ErrorCode": "APPROVED", "ErrorDescription": " "},
+    { "userId": 2, "DayOffStart": "2020-09-18T00:00:00Z", "DayOffEnd": "2020-09-18T00:00:00Z", "ActualTotalDays": 0, "ErrorCode": "CANCELLED", "ErrorDescription": "No remaining "}
+  ] 
 }
